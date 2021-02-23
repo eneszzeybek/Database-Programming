@@ -1,0 +1,10 @@
+C:\Users\Enes Zeybek\source\repos\Football_DB\Football_DB\bin\Debug\Football_DB.exe.config
+C:\Users\Enes Zeybek\source\repos\Football_DB\Football_DB\bin\Debug\Football_DB.exe
+C:\Users\Enes Zeybek\source\repos\Football_DB\Football_DB\bin\Debug\Football_DB.pdb
+C:\Users\Enes Zeybek\source\repos\Football_DB\Football_DB\obj\Debug\Football_DB.Form1.resources
+C:\Users\Enes Zeybek\source\repos\Football_DB\Football_DB\obj\Debug\Football_DB.Properties.Resources.resources
+C:\Users\Enes Zeybek\source\repos\Football_DB\Football_DB\obj\Debug\Football_DB.csproj.GenerateResource.cache
+C:\Users\Enes Zeybek\source\repos\Football_DB\Football_DB\obj\Debug\Football_DB.csproj.CoreCompileInputs.cache
+C:\Users\Enes Zeybek\source\repos\Football_DB\Football_DB\obj\Debug\Football_DB.exe
+C:\Users\Enes Zeybek\source\repos\Football_DB\Football_DB\obj\Debug\Football_DB.pdb
+C:\Users\Enes Zeybek\source\repos\Football_DB\Football_DB\obj\Debug\Football_DB.csprojAssemblyReference.cache
