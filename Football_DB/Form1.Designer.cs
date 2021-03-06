@@ -385,9 +385,9 @@ namespace Football_DB
             this.tNameDataGridViewTextBoxColumn,
             this.tColorDataGridViewTextBoxColumn});
             this.dataGridView1.DataSource = this.teamBindingSource;
-            this.dataGridView1.Location = new System.Drawing.Point(414, 6);
+            this.dataGridView1.Location = new System.Drawing.Point(405, 6);
             this.dataGridView1.Name = "dataGridView1";
-            this.dataGridView1.Size = new System.Drawing.Size(348, 150);
+            this.dataGridView1.Size = new System.Drawing.Size(357, 150);
             this.dataGridView1.TabIndex = 0;
             // 
             // tIDDataGridViewTextBoxColumn
